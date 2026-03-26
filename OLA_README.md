@@ -20,7 +20,7 @@ Ride-hailing platforms like Ola generate massive volumes of operational data eve
 
 ## 🎯 Project Objective
 
-To design and build a **complete analytics pipeline** — from raw data ingestion and cleaning to SQL-based querying and an interactive Power BI dashboard — that enables data-driven decision-making for an urban ride-hailing business.
+To design and build a **complete analytics project** — from raw data cleaning to SQL-based querying and an interactive Power BI dashboard — that enables data-driven decision-making for an urban ride-hailing business.
 
 ---
 
