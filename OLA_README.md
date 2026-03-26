@@ -1,6 +1,6 @@
 # 🚖 Ola Ride Analytics — End-to-End Data Analytics Project
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql) ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?logo=microsoftexcel) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql) ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?logo=microsoftexcel)
 
 ---
 
