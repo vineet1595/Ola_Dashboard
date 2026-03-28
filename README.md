@@ -163,7 +163,7 @@ ola-data-analytics/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ola-data-analytics.git
+   git clone https://github.com/vineet1595/ola-data-analytics.git
    ```
 
 2. **Import the dataset** — Load `Mumbai_Bookings_July2025.csv` into MySQL using the import wizard or command line.
@@ -178,8 +178,8 @@ ola-data-analytics/
 
 If you found this project useful or have feedback, feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vm62)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/vineet1595)
 
 ---
 
